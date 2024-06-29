@@ -20,7 +20,9 @@ Steps to execute the package :
         python -m pip install  numpy
 
 4) Set up your Config.ini file with your salesforce and Data base credintials
-5) Run your python package with below command. Make Sure your terminal points to Same folder. other wise use CD command to set the path
-             python BulkApi.py
+5) Run your python package with below command. Make Sure your terminal points to Same folder.
+6) other wise use CD command to set the path
+
+     python BulkApi.py   -- command to execute code
       
 
