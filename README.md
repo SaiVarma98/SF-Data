@@ -5,6 +5,7 @@ This Repo Contains all the work related to Salesforce Data
 /*****    Bulk APi        ****/
 
 This file has code to replicate Salesforce Data into SQL SERVER.
+
 Steps to execute the package :
 
 1) Clone BulkApi.py and Config.ini
